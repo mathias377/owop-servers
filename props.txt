@@ -1,0 +1,4 @@
+adminpass gabgabmakamk
+bindto 0.0.0.0
+modpass matmath377
+port 13374
